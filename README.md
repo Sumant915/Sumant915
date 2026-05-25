@@ -4,7 +4,7 @@
 <!--                     HERO SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Sumantra%20Singh&fontSize=52&fontColor=00f5ff&fontAlignY=38&desc=AIML%20%7C%20DSA%20Enthusiast&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/Sumant915/Sumant915/main/banner.svg" alt="Sumantra Singh — AIML Engineer & DSA Enthusiast" />
 
 <br/>
 
@@ -180,11 +180,11 @@ philosophy  : "Consistency compounds. Build every day."
 
 <br/>
 
-<a href="https://leetcode.com/Sumant915" target="_blank">
+<a href="https://leetcode.com/u/sumant915_singh/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sumantra-singh-a85956317" target="_blank">
+<a href="https://www.linkedin.com/in/sumantra-singh-a85956317?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -240,7 +240,7 @@ philosophy  : "Consistency compounds. Build every day."
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sumantra-singh-a85956317" target="_blank">
+<a href="https://www.linkedin.com/in/sumantra-singh-a85956317?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
