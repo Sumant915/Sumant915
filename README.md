@@ -4,7 +4,7 @@
 <!--                     HERO SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Aditya%20Tiwari&fontSize=52&fontColor=00f5ff&fontAlignY=38&desc=AIML%20%7C%20Full%20Stack%20%7C%20DSA&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Sumantra%20Singh&fontSize=52&fontColor=00f5ff&fontAlignY=38&desc=AIML%20%7C%20DSA%20Enthusiast&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
 
 <br/>
 
@@ -28,7 +28,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Passion-DSA%20%26%20Problem%20Solving-a78bfa?style=flat-square&labelColor=0d1117&color=a78bfa" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Dev-06b6d4?style=flat-square&labelColor=0d1117&color=06b6d4" />
+  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JS-06b6d4?style=flat-square&labelColor=0d1117&color=06b6d4" />
 </p>
 
 </div>
@@ -48,20 +48,20 @@
 <br/>
 
 ```yaml
-name        : Aditya Tiwari
-role        : AIML Student · DSA Enthusiast · Full Stack Developer
+name        : Sumantra Singh
+role        : AIML Student · DSA Enthusiast
 location    : India 🇮🇳
 education   : B.Tech — Artificial Intelligence & Machine Learning
 
 current_focus:
-  - Building end-to-end AI/ML applications
+  - Exploring Machine Learning & AI applications
   - Mastering Data Structures & Algorithms
-  - Exploring System Design & Scalable Architectures
+  - Building projects with Python & Web Technologies
 
 learning:
   - Advanced Machine Learning & Deep Learning
-  - Backend APIs & Cloud Deployment
   - Competitive Programming
+  - Data Visualization & Analysis
 
 philosophy  : "Consistency compounds. Build every day."
 ```
